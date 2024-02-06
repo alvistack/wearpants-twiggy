@@ -9,3 +9,6 @@ MANIFEST
 wingdbstub.py
 .coverage
 /htmlcov/
+
+.pybuild/
+*.egg-info

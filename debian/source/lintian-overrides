@@ -1,0 +1,4 @@
+python-twiggy source: file-without-copyright-information
+python-twiggy source: no-debian-changes
+python-twiggy source: source-contains-prebuilt-windows-binary
+python-twiggy source: source-package-encodes-python-version

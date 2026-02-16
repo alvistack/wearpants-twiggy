@@ -1,0 +1,4 @@
+python3-twiggy: copyright-without-copyright-notice
+python3-twiggy: initial-upload-closes-no-bugs
+python3-twiggy: no-manual-page
+python3-twiggy: zero-byte-file-in-doc-directory
